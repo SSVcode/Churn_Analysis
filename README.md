@@ -1,4 +1,4 @@
-#C ustomer Churn Analysis
+# Customer Churn Analysis
 
 This project analyzes customer churn patterns in a telecommunications company. By using data preprocessing, exploratory data analysis (EDA), statistical tests, clustering, predictive modeling, and survival analysis, the project provides actionable insights to improve customer retention.
 

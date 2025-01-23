@@ -1,10 +1,10 @@
-#Customer Churn Analysis
+#C ustomer Churn Analysis
 
 This project analyzes customer churn patterns in a telecommunications company. By using data preprocessing, exploratory data analysis (EDA), statistical tests, clustering, predictive modeling, and survival analysis, the project provides actionable insights to improve customer retention.
 
-##Project Highlights
+## Project Highlights
 
-##Key Insights:
+## Key Insights:
 
 Month-to-month contracts and high monthly charges are strong indicators of churn.
 

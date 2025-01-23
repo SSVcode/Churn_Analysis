@@ -45,10 +45,8 @@ Customer segmentation scatter plot.
 
 Kaplan-Meier survival curve.
 
-Conclusion
+## Conclusion
 
 This project demonstrates the use of data-driven methods to identify churn patterns and provide actionable retention strategies. It showcases skills in data preprocessing, analysis, machine learning, and visualization.
 
-License
 
-This project is licensed under the MIT License.
